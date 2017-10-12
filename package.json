@@ -1,6 +1,6 @@
 {
   "name": "@microdrop/jupyterlab-protocol-renderer",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "JupyterLab - Protocol Renderer",
   "main": "lib/plugin.js",
   "files": [
