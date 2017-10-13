@@ -13,8 +13,8 @@
     "mimeExtension": true
   },
   "dependencies": {
-    "@jupyterlab/rendermime-interfaces": "^0.3.0",
-    "@microdrop/async": "0.0.5",
+    "@jupyterlab/rendermime-interfaces": "^0.4.1",
+    "@microdrop/async": "0.0.11",
     "@microdrop/jupyterlab_extension": "0.0.4",
     "@microdrop/step_protocol_jlab_extension": "0.0.6",
     "@mqttclient/web": "0.0.14",
@@ -22,6 +22,6 @@
     "html2canvas": "^0.5.0-beta4",
     "install": "^0.10.1",
     "jquery": "^3.2.1",
-    "npm": "^5.4.2"
+    "npm": "^5.5.1"
   }
 }
